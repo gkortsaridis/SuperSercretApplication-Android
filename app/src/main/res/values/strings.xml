@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Super Secret Application</string>
+    <string name="__hardcoded_key_on_strings_xml">stringsKey123</string>
+    
+    <string name="__title1_string">Welcome to my super secret Android application!</string>
+    <string name="__button1_string">Next Important Activity</string>
+</resources>
